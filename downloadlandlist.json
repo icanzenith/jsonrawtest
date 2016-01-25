@@ -1,0 +1,88 @@
+{"data":[
+		  	{
+				"ObjectID":1,
+				"LandName":"AMM001",
+				"LandLength":40,
+				"LandWidth":40,
+				"LandArea":1600,
+				"UserCreate":8,
+				"Address":"แปลงทดลองการเกษตรภาควิชาโรคพืช 1 ภาควิชาเกษตรกลวิธาน มหาวิทยาลัยเกษตรศาสตร์วิทยาเขตกำแพงแสน",
+				"Sector":"A",
+				"Latitude":14.028375,
+				"Longitude":99.966986,
+				"YearCrossing":2014,
+				"SugarcaneSelectionType":1,
+				"createdTime":"2016-01-11T04:43:57+0000Z",
+				"updatedTime":"2016-01-11T04:43:57+0000Z",
+				"MaximumRow":26,
+				"MaximumFamilyPerRow":1,
+				"MaximumClonePerFamily":35
+			},{
+		   		"ObjectID":2,
+		   		"LandName":"AMM002",
+		   		"LandLength":40,
+		   		"LandWidth":40,
+		   		"LandArea":1600,
+		   		"UserCreate":8,
+		   		"Address":"แปลงทดลองการเกษตรภาควิชาโรคพืช 2 ภาควิชาเกษตรกลวิธาน มหาวิทยาลัยเกษตรศาสตร์วิทยาเขตกำแพงแสน",
+		   		"Sector":"A",
+		   		"Latitude":14.027954,
+		   		"Longitude":99.966975,
+		   		"YearCrossing":2014,
+		   		"SugarcaneSelectionType":1,
+		   		"createdTime":"2016-01-11T04:43:57+0000Z",
+		   		"updatedTime":"2016-01-11T04:43:57+0000Z",
+		   		"MaximumRow":26,
+		   		"MaximumFamilyPerRow":1,
+		   		"MaximumClonePerFamily":35
+			},{
+				"ObjectID":3,
+				"LandName":"AMM003",
+				"LandLength":40,
+				"LandWidth":40,
+				"LandArea":1600,
+				"UserCreate":8,
+				"Address":"แปลงทดลองการเกษตรภาควิชาโรคพืช 3 ภาควิชาเกษตรกลวิธาน มหาวิทยาลัยเกษตรศาสตร์วิทยาเขตกำแพงแสน",
+				"Sector":"A",
+				"Latitude":14.027924,
+				"Longitude":99.966996,
+				"YearCrossing":2014,
+				"SugarcaneSelectionType":2,
+				"createdTime":"2016-01-11T04:43:57+0000Z",
+				"updatedTime":"2016-01-11T04:43:57+0000Z",
+				"MaximumRow":26,
+				"MaximumFamilyPerRow":1,
+				"MaximumClonePerFamily":35
+			},{
+				"ObjectID":4,
+				"LandName":"AMM004",
+				"LandLength":40,
+				"LandWidth":60,
+				"LandArea":1600,
+				"UserCreate":8,
+				"Address":"แปลงทดลองการเกษตรภาควิชาโรคพืช 4 ภาควิชาเกษตรกลวิธาน มหาวิทยาลัยเกษตรศาสตร์วิทยาเขตกำแพงแสน",
+				"Sector":"A",
+				"Latitude":14.037924,
+				"Longitude":99.966996,
+				"YearCrossing":2014,
+				"SugarcaneSelectionType":2,
+				"createdTime":"2016-01-11T04:43:57+0000Z",
+				"updatedTime":"2016-01-11T04:43:57+0000Z",
+				"MaximumRow":26,
+				"MaximumFamilyPerRow":2,
+				"MaximumClonePerFamily":35
+			}
+		]
+}
+
+
+
+
+
+
+
+
+
+
+
+
