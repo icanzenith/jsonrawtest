@@ -1,0 +1,64 @@
+{
+  "id": 1,
+  "clone_id":13,
+  "code": "A14282-001",
+  "overview": 4.5,
+  "stuff": 1,
+  "internal_firmness": 1,
+  "internal_systom": 1,
+  "clump_char": 1,
+  "clump_shape": 1,
+  "leaf_sheath": 1,
+  "stalk_amount": 1,
+  "brix": [
+    20.2,
+    20,
+    22.2
+  ],
+  "height": [
+    212,
+    210,
+    212,
+    213,
+    222
+  ],
+  "internode_amount": [
+    22,
+    21,
+    23,
+    24,
+    25
+  ],
+  "stalk_size": [
+    2.1,
+    2.5,
+    3.2,
+    2.7,
+    2.4
+  ],
+  "internode_length": [
+    21,
+    21,
+    22,
+    19,
+    23
+  ],
+  "pictures": [
+    {
+      "id": 123,
+      "url": "www.googole.com/picture01",
+      "create_time": "2009-06-15T13:45:30.0000000Z",
+      "update_time": "2009-06-15T13:45:30.0000000Z"
+    },
+    {
+      "id": 124,
+      "url": "www.googole.com/picture02",
+      "create_time": "2009-06-15T13:45:31.0000000Z",
+      "update_time": "2009-06-15T13:45:31.0000000Z"
+    }
+  ],
+  "user_id":12,
+  "create_time":"2009-06-15T13:45:30.0000000Z",
+  "update_time":"2009-06-15T13:45:30.0000000Z"
+  
+}
