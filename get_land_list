@@ -1,0 +1,42 @@
+[
+  {
+    "id" : "1",
+    "place_code" : "A",
+    "state" : "1",
+    "max_row" : "34",
+    "max_clone_per_fam" : "35",
+    "update_time" : "2009-06-15T13:45:30.0000000Z",
+    "rep_amount" : "1",
+    "width" : "40",
+    "longitude" : "121.1293884",
+    "latitude" : "14.982983",
+    "length" : "40",
+    "size" : "1600",
+    "address" : "แปลงทดลอง ภาควิชาโรคพืช มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน",
+    "selection_type" : "1",
+    "create_time" : "2009-06-15T13:45:30.0000000Z",
+    "max_fam_per_row" : "1",
+    "name" : "โรคพืช",
+    "user_create" : "10"
+  },
+  {
+    "id" : "2",
+    "place_code" : "B",
+    "state" : "1",
+    "max_row" : "64",
+    "max_clone_per_fam" : "10",
+    "update_time" : "2009-06-15T13:45:30.0000000Z",
+    "rep_amount" : "2",
+    "width" : "100",
+    "longitude" : "121.1293884",
+    "latitude" : "14.982983",
+    "length" : "100",
+    "size" : "10000",
+    "address" : "แปลงทดลอง ศูนย์ส่งเสริมอุตสหกรรมอ้อยและน้ำตาล อ.ท่าม่วง จ.กาญจนบุรี ",
+    "selection_type" : "2",
+    "create_time" : "2009-06-15T13:45:30.0000000Z",
+    "max_fam_per_row" : "2",
+    "name" : "แปลงท่าม่วง",
+    "user_create" : "12"
+  }
+]
